@@ -1,8 +1,18 @@
-- 👋 Hi, I’m Burhan Ahmed
-- 👀 I’m interested in Data Analytics/ Business Analystics/ Data Science/ Machine Learning/ Deep Learning and cutting-edge research in AI and tech stuff.
-- 🌱 I’m currently learning Adv SQL, Applied Statistics, Product Analytics,Business Analystics, Machine Learning, and solving DSA problems.
-- 💞️ I’m looking to collaborate on "I'm looking to collaborate on projects related to my areas of interest and expertise. Currently, I'm focused on learning and applying Advanced SQL, Applied Statistics, Product Analytics, Business Analytics, Machine Learning, and solving Data Structures and Algorithms (DSA) problems. I'm open to collaborating on projects that involve these topics, whether it's contributing code, providing insights, or working together to solve complex problems
-- 📫 How to reach me:- mo.burhanahmed10dec@gmail.com / 'https:/www.linkedin.com/in/burhan-ahmed-93a1132aa'
+👋 Hi, I’m **Burhan Ahmed**
+
+👀 **Interests:** My primary interest lies in **Web Development**, where I've been expanding my skill set in both backend and frontend technologies. I'm also deeply interested in Data Analytics, Business Analytics, Data Science, Machine Learning, and cutting-edge research in AI and technology.
+
+**🌱 Currently Learning:** I'm actively learning and building projects in Web Development, focusing on technologies like **NextJs**, **Node.js**, **Tailwind CSS**, **JavaScript**, and **Docker** many more. Alongside this, I'm continuing to deepen my knowledge in Advanced SQL, Applied Statistics, Product Analytics, Business Analytics, Machine Learning, and solving Data Structures and Algorithms (DSA) problems.
+
+💼 **Collaboration:** I'm eager to collaborate on projects related to my areas of interest and expertise. Whether it's Web Development, Data Analytics, Machine Learning, or Business Analytics, I'm open to contributing code, offering insights, or working together to solve complex problems. Let's create something impactful together!
+
+**Checkout my portfolio**: https://portfolio-63lnpwbhd-burhan-ahmeds-projects-a66cbd03.vercel.app/
+
+📫 **How to Reach Me:**
+
+Email: mo.burhanahmed10dec@gmail.com
+
+LinkedIn: www.linkedin.com/in/burhan-ahmed-93a1132aa
 
 <!---
 CodeMaverick4/CodeMaverick4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
