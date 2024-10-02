@@ -6,7 +6,7 @@
 
 💼 **Collaboration:** I'm eager to collaborate on projects related to my areas of interest and expertise. Whether it's Web Development, Data Analytics, Machine Learning, or Business Analytics, I'm open to contributing code, offering insights, or working together to solve complex problems. Let's create something impactful together!
 
-**Checkout my portfolio**: https://portfolio-63lnpwbhd-burhan-ahmeds-projects-a66cbd03.vercel.app/
+**Checkout my portfolio**: https://burhanahmed.vercel.app/
 
 📫 **How to Reach Me:**
 
